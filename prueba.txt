@@ -3,3 +3,9 @@
 ##Sección 1 Introducción
 
 Esta es la primera línea original de texto, y termina aquí.
+
+Además, añadimos esta línea
+
+##Sección 2. Introducción
+
+Ahora la introducción irá aquí.
