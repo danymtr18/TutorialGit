@@ -2,6 +2,7 @@
 
 ##Sección 1 Introducción
 
+
 Esta es la primera línea original de texto, y termina aquí.
 
 Además, añadimos esta línea
@@ -9,3 +10,15 @@ Además, añadimos esta línea
 ##Sección 2. Introducción
 
 Ahora la introducción irá aquí.
+
+Esta es la primera línea original de texto, y ya no termina aquí, ahora aquí.
+
+Además, añadimos esta línea.
+
+##Sección 2. Marco Teórico
+ 
+Aquí irá el marco teórico
+ 
+Ahora la introducción irá aquí.
+
+>>>>>>> rama
